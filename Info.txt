@@ -1,0 +1,16 @@
+create table schedule(
+plannedwork varchar(100),
+expense long,
+income long,
+observations varchar(100),
+temphigh varchar(10),
+templow varchar(10),
+humidity varchar(50),
+note varchar(100)
+);
+
+
+Host : db4free.net
+Username : nakshatraapp
+Password : mynakshatraapp123
+database : nakshatraapp
